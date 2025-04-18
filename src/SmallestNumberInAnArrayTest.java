@@ -14,6 +14,4 @@ class SmallestNumberInAnArrayTest {
         void smallNumber(){
             assertEquals(1,SmallestNumberInAnArray.findingSmallest(array));
         }
-
-
 }
